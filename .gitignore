@@ -1,2 +1,3 @@
 .venv/
+tutorial.txt
 # .env, .vscode, __pycache__, *.pyc etc  files should also be added
