@@ -38,4 +38,4 @@ Accuracy of 0.99, since dataset is small.
 
 ## License
 
-MIT License, ask before sharing.
+MIT License
