@@ -1,0 +1,2 @@
+.venv/
+# .env, .vscode, __pycache__, *.pyc etc  files should also be added
